@@ -4,6 +4,12 @@ Turn ordinary fan into "smart" fan controlled via web server(nodemcu).
 
 (sorry for the images/ video quality)
 
+## Component
+1.  HI-LINK HLK-PM01 AC-DC.
+2.  Nodemcu v3 lolin.
+3.  Relay module 4 channel 5 volt dc.
+4.  Fuse 400 mA 250 v.
+
 ## How to
 1.  Edit SSID and password in 4phasefan_clean.ino.
 2.  Flash 4phasefan_clean.ino into nodemcu.
